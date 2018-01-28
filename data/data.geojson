@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.79672, 1.59094]
+      },
+      "properties": {
+        "title": "Etablissements Guy Harang",
+        "description": "",
+        "address": "Rue du Moulin des Arts, 78550 Houdan, France",
+        "marker-symbol": "slaughterhouse",
+        "marker-color": "#d81218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.26349, 6.39761]
+      },
+      "properties": {
+        "title": "Willi Siemes und Sohn GmbH & Co. KG EU Schlacht- und Zerlegebetrieb",
+        "description": "",
+        "address": "Gerberstraße 29-32, 41748 Viersen",
+        "marker-symbol": "slaughterhouse",
+        "marker-color": "#d81218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.93565, 6.94386]
+      },
+      "properties": {
+        "title": "Pelz Adrian",
+        "description": "",
+        "address": "Hahnenstraße 27, 50667 Köln",
+        "marker-symbol": "dog-park",
+        "marker-color": "#f59123"
+      }
+    },
+  ]
+}
